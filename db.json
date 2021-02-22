@@ -16,7 +16,14 @@
             "description": "Le violoncelle est un instrument à cordes frottées, pincées ou plus rarement frappées avec le bois de l'archet, de la famille des cordes frottées, qui compte aussi le violon, l'alto et la contrebasse.",
             "img" : "img/frottees/violoncelle.png",
             "familleId": 1
-            }
+            },
+
+            {"id": 3,
+                "name": "violon alto",
+                "description": "L'alto fait partie de la famille des instruments à cordes frottées. Il ressemble au violon, mais il est plus grand, plus épais, et plus grave.",
+                "img" : "img/frottees/alto.png",
+                "familleId": 1
+                }          
 
 
         ],
