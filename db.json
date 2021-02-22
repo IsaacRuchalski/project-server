@@ -33,14 +33,14 @@
             },
 
             {"id": 5,
-                "name": "Tagelharpa",
+                "name": "tagelharpa",
                 "description": "la talharpa (ou tagelharpa), ou la stråkharpa est une lyre à archet à quatre cordes originaire de Scandinavie, jouée depuis le moyen-âge.",
                 "img" : "img/frottees/tagelharpa.png",
                 "familleId": 1
             },
 
             {"id": 6,
-                "name": "Vielle à roue",
+                "name": "vielle à roue",
                 "description": "La vielle à roue est un instrument à cordes, frottées par une roue en bois au lieu d'un archet. La roue est tournée avec une manivelle de la main droite, pendant que la main gauche du musicien joue la mélodie sur un clavier.",
                 "img" : "img/frottees/hurdy-gurdy.png",
                 "familleId": 1
@@ -48,7 +48,7 @@
 
             {"id": 7,
             
-                "name": "Luth",
+                "name": "luth",
                 "description": "Le luth est un instrument à cordes pincées. Le terme désigne aussi de manière générale tout instrument ayant les cordes parallèles à un manche.",
                 "img": "img/pincees/luth.png",
                 "familleId": 2
@@ -64,7 +64,7 @@
         ],
 
 
-        "familles": [
+        "familles   ": [
 
             {"id": 1,
             "name": "cordes frottées"
