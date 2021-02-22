@@ -1,23 +1,34 @@
 {
 
-    "instruments" : [
+ 
 
-        {"cordes frottées" : [
+        "instruments" : [
 
             {"id": 1,
             "name": "violon",
-            "description": "Constitué de 71 éléments en bois collés ou assemblés les uns aux autres, il possède quatre cordes généralement accordées à la quinte que le violoniste frotte avec un archet ou pince avec l'index ou le pouce."
+            "description": "Constitué de 71 éléments en bois collés ou assemblés les uns aux autres, il possède quatre cordes généralement accordées à la quinte que le violoniste frotte avec un archet ou pince avec l'index ou le pouce.",
+            "img": "img/frottees/violon.png",
+            "familleId": 1 
+            },
+
+            {"id": 2,
+            "name": "violoncelle",
+            "description": "Le violoncelle est un instrument à cordes frottées, pincées ou plus rarement frappées avec le bois de l'archet, de la famille des cordes frottées, qui compte aussi le violon, l'alto et la contrebasse.",
+            "img" : "img/frottees/violoncelle.png",
+            "familleId": 1
             }
 
 
+        ],
 
 
-        ]}
+        "famille": [
 
+            {"id": 1,
+            "name": "cordes frottées"
+            }
 
-
-    ]
-
+        ]
 
 
 
