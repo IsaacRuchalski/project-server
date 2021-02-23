@@ -34,7 +34,7 @@
 
             {"id": 5,
                 "name": "tagelharpa",
-                "description": "la talharpa (ou tagelharpa), ou la stråkharpa est une lyre à archet à quatre cordes originaire de Scandinavie, jouée depuis le moyen-âge.",
+                "description": "la talharpa (ou tagelharpa), ou la stråkharpa est une lyre à archet à deux, trois ou quatre cordes originaire de Scandinavie, jouée depuis le moyen-âge.",
                 "img" : "assets/tagelharpa.png",
                 "familleId": 1
             },
