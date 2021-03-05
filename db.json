@@ -87,7 +87,7 @@
             },
             {"id": 11,
             
-                "name": "Pipasso",
+                "name": "pipasso",
                 "description": "Le pipasso est un instrument de la famille des cornemuses, originaire du nord de la France (Picardie) et du Hainaut belge.",
                 "img": "assets/pipasso.png",
                 "familleId": 5,
@@ -95,9 +95,9 @@
             },
             {"id": 12,
             
-                "name": "Concertina",
+                "name": "concertina",
                 "description": "Le concertina est un instrument de musique à vent et à anches libres, comme l'accordéon. Il a été inventé en 1829 par Sir Charles Wheatstone.",
-                "img": "assets/pipasso.png",
+                "img": "assets/concertina.png",
                 "familleId": 6,
 	 	        "origin": "United Kingdom"
             }
