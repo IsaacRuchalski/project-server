@@ -84,6 +84,14 @@
                 "img": "assets/santour.png",
                 "familleId": 3,
 	 	        "origin": "Iran"
+            },
+            {"id": 11,
+            
+                "name": "Pipasso",
+                "description": "Le pipasso est un instrument de la famille des cornemuses, originaire du nord de la France (Picardie) et du Hainaut belge.",
+                "img": "assets/pipasso.png",
+                "familleId": 4,
+	 	        "origin": "France"
             }
         ],
 
@@ -99,6 +107,10 @@
 
             {"id": 3,
                 "name": "cordes frappées"
+            },
+
+            {"id": 3,
+                "name": "bois, à vent"
             }
         ]
 
