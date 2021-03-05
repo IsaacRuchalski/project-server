@@ -100,6 +100,14 @@
                 "img": "assets/concertina.png",
                 "familleId": 6,
 	 	        "origin": "United Kingdom"
+            },
+            {"id": 13,
+            
+                "name": "Grande cornemuse des Highlands",
+                "description": "La grande cornemuse écossaise, ou pìob-mhòr en gaélique écossais (grande cornemuse), est un instrument à vent d'Écosse répandu à travers l'ancien empire britannique. ",
+                "img": "assets/highland-bagpipe.png",
+                "familleId": 5,
+	 	        "origin": "United Kingdom"
             }
         ],
 
@@ -117,8 +125,16 @@
                 "name": "cordes frappées"
             },
 
-            {"id": 3,
-                "name": "bois, à vent"
+            {"id": 4,
+                "name": "à anche simple"
+            },
+
+            {"id": 5,
+                "name": "à anche double"
+            },
+
+            {"id": 6,
+                "name": "à anche libre"
             }
         ]
 
