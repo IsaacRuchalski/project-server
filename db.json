@@ -76,6 +76,14 @@
                 "img": "assets/rubab.png",
                 "familleId": 2,
 	 	        "origin": "Afghanistan"
+            },
+            {"id": 10,
+            
+                "name": "santour",
+                "description": "le santour appartenant à la famille des cithares sur table. Il s'agit d'un instrument à cordes frappées, tout comme le cymbalum ou le piano apparus plus tard, dont il est l'origine commune.",
+                "img": "assets/santour.png",
+                "familleId": 2,
+	 	        "origin": "Afghanistan"
             }
         ],
 
