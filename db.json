@@ -108,6 +108,24 @@
                 "img": "assets/highland-bagpipe.png",
                 "familleId": 5,
 	 	        "origin": "United Kingdom"
+            },
+            {"id": 14,
+            
+                "name": "Guimbarde",
+                "description": "La guimbarde est un instrument de musique utilisant une lamelle actionnée par le doigt comme élément vibrant et la bouche du musicien comme cavité de résonance.  On en a trouvé des traces au iiie siècle av. J.-C. au nord-ouest de la Chine. C'est un instrument répandu chez les peuples nomades d'Eurasie, de la Finlande au nord du Japon, en Asie et en Mélanésie. Elle existe en Europe depuis au moins l'époque gallo-romaine.",
+                "img": "assets/jaw-harp.png",
+                "familleId": 7,
+	 	        "origin": "China"
+  
+            },
+            {"id": 15,
+            
+                "name": "Maultrommel",
+                "description": "la Maultrommel (littéralement 'Jaw drum' en autrichien' est une guimbarde retrouvée en Europe, en Finlande, Allemagne, et Autriche.",
+                "img": "assets/maultrommel.png",
+                "familleId": 7,
+	 	        "origin": "Finland"
+  
             }
         ],
 
