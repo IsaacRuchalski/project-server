@@ -126,6 +126,15 @@
                 "familleId": 7,
 	 	        "origin": "Finland"
   
+            },
+            {"id": 16,
+            
+                "name": "Bukkehorn",
+                "description": "le Bukkehorn (Buckhorn, Bockhorn) est un ancien instrument scandinave fait à partir d'une corne de chèvre. La corne est habituellement récoltée 5 ou 7 ans avant utilisation comme bukkehorn. utilisé par les bergers, les armées, et autres en tant qu'instrument de signal ou pour faire fuir des animaux.",
+                "img": "assets/bukkehorn.png",
+                "familleId": 8,
+	 	        "origin": "Sweden"
+  
             }
         ],
 
