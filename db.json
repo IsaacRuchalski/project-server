@@ -165,7 +165,7 @@
             },
             {"id": 20,
 
-                "name":"Clavecin",
+                "name":"Cithare",
                 "description":"La cithare (du grec ancien κιθάρα / kithara) est un instrument de musique à cordes pincées, prépondérant dans le folklore autrichien voire germanique, mais aussi répandu en Hongrie, en Suisse, en Slovénie et en France.",
                 "img":"assets/cithare.png",
                 "familleId": 2,
@@ -174,7 +174,7 @@
             },
             {"id": 21,
 
-                "name":"Cithare",
+                "name":"Clavecin",
                 "description":"Un clavecin est un instrument de musique à cordes muni d'un ou plusieurs claviers dont chacune des cordes est « pincée » par un dispositif nommé sautereau.",
                 "img":"assets/clavecin.png",
                 "familleId": 2,
