@@ -135,6 +135,87 @@
                 "familleId": 8,
 	 	        "origin": "Sweden"
   
+            },
+            {"id": 17,
+
+                "name":"Balalaïka",
+                "description":"La balalaïka (Russe : балалайка) est un instrument de musique à cordes pincées populaire de Russie. C'est un luth à manche long à la caisse typiquement triangulaire. Le mot balalaïka vient du russe balakat, qui signifie bavarder, plaisanter, taquiner.",
+                "img":"assets/balalaïka.png",
+                "familleId": 2,
+                "origin": "Russia"
+                
+            },
+            {"id": 18,
+
+                "name":"Gousli",
+                "description":"Les gousli, gusli(en russe : гусли) ou housli et husli (en ukrainien : гуслі), constituent peut-être le plus ancien type d'instrument à plusieurs cordes pincées de Russie et d'Ukraine. Il en existe deux formes principales apparentées soit aux cithares, soit aux lyres.",
+                "img":"assets/gousli.png",
+                "familleId": 2,
+                "origin": "Russia"
+                
+            },
+            {"id": 19,
+
+                "name":"Piano",
+                "description":"Le piano est un instrument de musique polyphonique, à clavier, de la famille des cordes frappées. Il se présente sous deux formes : le piano droit, à cordes verticales, et le piano à queue, à cordes horizontales.",
+                "img":"assets/piano.png",
+                "familleId": 3,
+                "origin": "Italy"
+                
+            },
+            {"id": 20,
+
+                "name":"Clavecin",
+                "description":"Un clavecin est un instrument de musique à cordes muni d'un ou plusieurs claviers dont chacune des cordes est « pincée » par un dispositif nommé sautereau.",
+                "img":"assets/clavecin.png",
+                "familleId": 2,
+                "origin": "Italy"
+                
+            },
+            {"id": 21,
+
+                "name":"Clavecin",
+                "description":"Un clavecin est un instrument de musique à cordes muni d'un ou plusieurs claviers dont chacune des cordes est « pincée » par un dispositif nommé sautereau.",
+                "img":"assets/clavecin.png",
+                "familleId": 2,
+                "origin": "Italy"
+                
+            },
+            {"id": 22,
+
+                "name":"Flute traversière",
+                "description":"La flûte traversière est un instrument à vent de la famille des bois. La flûte traversière partage avec les instruments de la famille des flûtes la méthode de production du son : l'air soufflé est mis en vibration par un biseau disposé à l'embouchure.",
+                "img":"assets/traversiere.png",
+                "familleId": 7,
+                "origin": "China"
+                
+            },
+            {"id": 23,
+
+                "name":"Aulos",
+                "description":"L'aulos est un instrument à vent très utilisé durant toute l'Antiquité au cours de rites religieux et sociaux. Appelé aulos dans la Grèce antique et tibia dans la Rome antique, le plus souvent joué par paire.",
+                "img":"assets/aulos.png",
+                "familleId": 4,
+                "origin": "Greece"
+                
+            },
+            {"id": 24,
+
+                "name":"Contrebasson",
+                "description":"Le contrebasson est un instrument de musique à vent de la famille des bois, de perce conique et à anche double, parent du basson et sonnant à l'octave inférieure de celui-ci",
+                "img":"assets/contrebasson.png",
+                "familleId": 5,
+                "origin": "Austria"
+                
+            },
+            {"id": 25,
+
+                "name":"Hautbois",
+                "description":"Le hautbois est un instrument de musique à vent de la famille des bois, de perce conique et dont le son est créé par la vibration d'une anche double au passage du souffle. Son timbre peut être puissant et sonore ou doux et charmeur, clair ou plein de rondeur et de chaleur.",
+                "img":"assets/hautbois.png",
+                "familleId": 5,
+                "origin": "Egypt"
+                
             }
         ],
 
@@ -162,6 +243,9 @@
 
             {"id": 6,
                 "name": "à anche libre"
+            },
+            {"id": 7,
+                "name": "à biseau"
             }
         ]
 
