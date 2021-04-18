@@ -103,7 +103,7 @@
             },
             {"id": 13,
             
-                "name": "Grande cornemuse des Highlands",
+                "name": "grande cornemuse des Highlands",
                 "description": "La grande cornemuse écossaise, ou pìob-mhòr en gaélique écossais (grande cornemuse), est un instrument à vent d'Écosse répandu à travers l'ancien empire britannique. ",
                 "img": "assets/highland-bagpipe.png",
                 "familleId": 5,
@@ -111,7 +111,7 @@
             },
             {"id": 14,
             
-                "name": "Guimbarde",
+                "name": "guimbarde",
                 "description": "La guimbarde est un instrument de musique utilisant une lamelle actionnée par le doigt comme élément vibrant et la bouche du musicien comme cavité de résonance.  On en a trouvé des traces au iiie siècle av. J.-C. au nord-ouest de la Chine. C'est un instrument répandu chez les peuples nomades d'Eurasie, de la Finlande au nord du Japon, en Asie et en Mélanésie. Elle existe en Europe depuis au moins l'époque gallo-romaine.",
                 "img": "assets/jaw-harp.png",
                 "familleId": 7,
@@ -120,7 +120,7 @@
             },
             {"id": 15,
             
-                "name": "Maultrommel",
+                "name": "maultrommel",
                 "description": "la Maultrommel (littéralement 'Jaw drum' en autrichien' est une guimbarde retrouvée en Europe, en Finlande, Allemagne, et Autriche.",
                 "img": "assets/maultrommel.png",
                 "familleId": 7,
@@ -129,7 +129,7 @@
             },
             {"id": 16,
             
-                "name": "Bukkehorn",
+                "name": "bukkehorn",
                 "description": "le Bukkehorn (Buckhorn, Bockhorn) est un ancien instrument scandinave fait à partir d'une corne de chèvre. La corne est habituellement récoltée 5 ou 7 ans avant utilisation comme bukkehorn. utilisé par les bergers, les armées, et autres en tant qu'instrument de signal ou pour faire fuir des animaux.",
                 "img": "assets/bukkehorn.png",
                 "familleId": 8,
@@ -138,7 +138,7 @@
             },
             {"id": 17,
 
-                "name":"Balalaïka",
+                "name":"balalaïka",
                 "description":"La balalaïka (Russe : балалайка) est un instrument de musique à cordes pincées populaire de Russie. C'est un luth à manche long à la caisse typiquement triangulaire. Le mot balalaïka vient du russe balakat, qui signifie bavarder, plaisanter, taquiner.",
                 "img":"assets/balalaïka.png",
                 "familleId": 2,
@@ -147,7 +147,7 @@
             },
             {"id": 18,
 
-                "name":"Gousli",
+                "name":"gousli",
                 "description":"Les gousli, gusli(en russe : гусли) ou housli et husli (en ukrainien : гуслі), constituent peut-être le plus ancien type d'instrument à plusieurs cordes pincées de Russie et d'Ukraine. Il en existe deux formes principales apparentées soit aux cithares, soit aux lyres.",
                 "img":"assets/gousli.png",
                 "familleId": 2,
@@ -156,7 +156,7 @@
             },
             {"id": 19,
 
-                "name":"Piano",
+                "name":"piano",
                 "description":"Le piano est un instrument de musique polyphonique, à clavier, de la famille des cordes frappées. Il se présente sous deux formes : le piano droit, à cordes verticales, et le piano à queue, à cordes horizontales.",
                 "img":"assets/piano.png",
                 "familleId": 3,
@@ -165,7 +165,7 @@
             },
             {"id": 20,
 
-                "name":"Cithare",
+                "name":"cithare",
                 "description":"La cithare (du grec ancien κιθάρα / kithara) est un instrument de musique à cordes pincées, prépondérant dans le folklore autrichien voire germanique, mais aussi répandu en Hongrie, en Suisse, en Slovénie et en France.",
                 "img":"assets/cithare.png",
                 "familleId": 2,
@@ -174,7 +174,7 @@
             },
             {"id": 21,
 
-                "name":"Clavecin",
+                "name":"clavecin",
                 "description":"Un clavecin est un instrument de musique à cordes muni d'un ou plusieurs claviers dont chacune des cordes est « pincée » par un dispositif nommé sautereau.",
                 "img":"assets/clavecin.png",
                 "familleId": 2,
@@ -183,7 +183,7 @@
             },
             {"id": 22,
 
-                "name":"Flute traversière",
+                "name":"flute traversière",
                 "description":"La flûte traversière est un instrument à vent de la famille des bois. La flûte traversière partage avec les instruments de la famille des flûtes la méthode de production du son : l'air soufflé est mis en vibration par un biseau disposé à l'embouchure.",
                 "img":"assets/traversiere.png",
                 "familleId": 7,
@@ -192,7 +192,7 @@
             },
             {"id": 23,
 
-                "name":"Aulos",
+                "name":"aulos",
                 "description":"L'aulos est un instrument à vent très utilisé durant toute l'Antiquité au cours de rites religieux et sociaux. Appelé aulos dans la Grèce antique et tibia dans la Rome antique, le plus souvent joué par paire.",
                 "img":"assets/aulos.png",
                 "familleId": 4,
@@ -201,7 +201,7 @@
             },
             {"id": 24,
 
-                "name":"Contrebasson",
+                "name":"contrebasson",
                 "description":"Le contrebasson est un instrument de musique à vent de la famille des bois, de perce conique et à anche double, parent du basson et sonnant à l'octave inférieure de celui-ci",
                 "img":"assets/contrebasson.png",
                 "familleId": 5,
@@ -210,7 +210,7 @@
             },
             {"id": 25,
 
-                "name":"Hautbois",
+                "name":"hautbois",
                 "description":"Le hautbois est un instrument de musique à vent de la famille des bois, de perce conique et dont le son est créé par la vibration d'une anche double au passage du souffle. Son timbre peut être puissant et sonore ou doux et charmeur, clair ou plein de rondeur et de chaleur.",
                 "img":"assets/hautbois.png",
                 "familleId": 5,
@@ -246,6 +246,9 @@
             },
             {"id": 7,
                 "name": "à biseau"
+            },
+            {"id": 8,
+                "name": "cuivre"
             }
         ]
 
