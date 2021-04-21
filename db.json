@@ -241,6 +241,16 @@
                 "origin": "Egypt",
                 "wikiSearch": "Hautbois"
                 
+            },
+            {"id": 26,
+
+                "name":"Banjo",
+                "description":"Le banjo est un instrument à cordes avec un cadre en métal et en peau.",
+                "img":"assets/banjo.png",
+                "familleId": 2,
+                "origin": "United States of America",
+                "wikiSearch": "Banjo"
+                
             }
         ],
 
