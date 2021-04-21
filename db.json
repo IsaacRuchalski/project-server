@@ -244,12 +244,22 @@
             },
             {"id": 26,
 
-                "name":"Banjo",
+                "name":"banjo",
                 "description":"Le banjo est un instrument à cordes avec un cadre en métal et en peau.",
                 "img":"assets/banjo.png",
                 "familleId": 2,
                 "origin": "United States of America",
                 "wikiSearch": "Banjo"
+                
+            },
+            {"id": 27,
+
+                "name":"mandoline",
+                "description":"La mandoline est un petit luth à manche courte originaire d'italie",
+                "img":"assets/mandoline.png",
+                "familleId": 2,
+                "origin": "Italy",
+                "wikiSearch": "Mandoline"
                 
             }
         ],
