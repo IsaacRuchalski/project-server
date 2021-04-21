@@ -183,7 +183,7 @@
             },
             {"id": 22,
 
-                "name":"flute traversière",
+                "name":"flûte traversière",
                 "description":"La flûte traversière est un instrument à vent de la famille des bois. La flûte traversière partage avec les instruments de la famille des flûtes la méthode de production du son : l'air soufflé est mis en vibration par un biseau disposé à l'embouchure.",
                 "img":"assets/traversiere.png",
                 "familleId": 7,
@@ -248,7 +248,7 @@
                 "name": "à biseau"
             },
             {"id": 8,
-                "name": "cuivre"
+                "name": "à embouchure"
             }
         ]
 
