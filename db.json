@@ -267,6 +267,16 @@
                 "name":"Orgue",
                 "description":"l'orgue est un instrument à vent puissant et complexe, utilisé depuis des siècles dans les églises, souvent de grandes dimensions, possédant un (ou plusieurs) clavier(s) manuel(s) et un clavier de pédales, dont les touches commandent le passage de l'air, envoyé par une soufflerie et emmagasiné dans les sommiers, vers des tuyaux de taille décroissante disposés par jeux, que l'on peut combiner les uns avec les autres, et qui ont chacun un timbre différent.",
                 "img":"assets/orgue.png",
+                "familleId": 9,
+                "origin": "Greece",
+                "wikiSearch": "Orgue"
+                
+            },
+            {"id": 29,
+
+                "name":"Koto",
+                "description":"Le koto est un instrument à cordes pincées traditionnel japonais",
+                "img":"assets/orgue.png",
                 "familleId": 8,
                 "origin": "Greece",
                 "wikiSearch": "Orgue"
@@ -305,7 +315,7 @@
             {"id": 8,
                 "name": "à embouchure"
             },
-            {"id": 8,
+            {"id": 9,
                 "name": "à anches multiples"
             }
         ]
