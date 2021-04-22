@@ -400,6 +400,16 @@
       "familleId": 10,
       "origin": "Egypt",
       "wikiSearch": "Tambour_(instrument)"
+    },
+    {
+      "id": 41,
+
+      "name": "flûte",
+      "description": "datant de 35 000, les flûtes les plus anciennes retrouvées étaient fabriquées dans des os de vautour en Allemagne",
+      "img": "assets/flute.png",
+      "familleId": 7,
+      "origin": "Germany",
+      "wikiSearch": "Flûte"
     }
   ],
 
