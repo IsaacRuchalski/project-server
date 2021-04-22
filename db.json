@@ -370,6 +370,16 @@
       "familleId": 2,
       "origin": "Senegal",
       "wikiSearch": "Ekonting"
+    },
+    {
+      "id": 37,
+
+      "name": "Maraca",
+      "description": "conçu par les peuples amazones, la maraca (les maracas) est un instrument de percussion qui utilise le choc de petits éléments mobiles",
+      "img": "assets/maraca.png",
+      "familleId": 10,
+      "origin": "Brazil",
+      "wikiSearch": "Maraca"
     }
   ],
 
@@ -382,6 +392,7 @@
     { "id": 6, "name": "à anche libre" },
     { "id": 7, "name": "à biseau" },
     { "id": 8, "name": "à embouchure" },
-    { "id": 9, "name": "à anches multiples" }
+    { "id": 9, "name": "à anches multiples" },
+    { "id": 10, "name": "percussion" }
   ]
 }
