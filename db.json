@@ -380,6 +380,16 @@
       "familleId": 10,
       "origin": "Brazil",
       "wikiSearch": "Maraca"
+    },
+    {
+      "id": 39,
+
+      "name": "Batterie",
+      "description": "La batterie voit le jour en 1906, ou elle sera d'abord appelée 'jazz', et donnera son nom au genre du même nom.",
+      "img": "assets/batterie.png",
+      "familleId": 10,
+      "origin": "United States of America",
+      "wikiSearch": "Batterie_(instrument)"
     }
   ],
 
