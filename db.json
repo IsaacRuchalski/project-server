@@ -284,12 +284,22 @@
     {
       "id": 29,
 
-      "name": "Koto",
+      "name": "koto",
       "description": "Le koto est un instrument à cordes pincées traditionnel japonais",
       "img": "assets/koto.png",
       "familleId": 2,
       "origin": "South Korea",
       "wikiSearch": "Koto"
+    },
+    {
+      "id": 30,
+
+      "name": "erhu",
+      "description": "Instrumment traditionnel chinois, l'Erhu est reconaissable à son manche fin et sa caisse de résonance en peau de serpent",
+      "img": "assets/erhu.png",
+      "familleId": 1,
+      "origin": "China",
+      "wikiSearch": "Erhu"
     }
   ],
 
