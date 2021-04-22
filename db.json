@@ -435,11 +435,21 @@
       "id": 44,
 
       "name": "lyre",
-      "description": "La lyre est un instrument très répandu dans le monde ",
-      "img": "assets/crwth.png",
-      "familleId": 1,
-      "origin": "Ireland",
-      "wikiSearch": "Crwth"
+      "description": "La lyre est un instrument simple, joué depuis la nuit des temps. Les cordes ont toutes la même longueur, mais leur tension est différente",
+      "img": "assets/lyre.png",
+      "familleId": 2,
+      "origin": "Greece",
+      "wikiSearch": "Lyre"
+    },
+    {
+      "id": 44,
+
+      "name": "lyre",
+      "description": "La lyre est un instrument simple, joué depuis la nuit des temps. Les cordes ont toutes la même longueur, mais leur tension est différente",
+      "img": "assets/lyre.png",
+      "familleId": 2,
+      "origin": "Greece",
+      "wikiSearch": "Lyre"
     }
   ],
 
