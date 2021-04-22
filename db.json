@@ -300,19 +300,35 @@
       "familleId": 1,
       "origin": "China",
       "wikiSearch": "Erhu"
+    },
+    {
+      "id": 31,
+
+      "name": "ektara",
+      "description": "Instrument indien monocorde unique en son genre qui se joue avec un archet",
+      "img": "assets/ektara.png",
+      "familleId": 1,
+      "origin": "India",
+      "wikiSearch": "Ektara"
+    },
+    {
+      "id": 32,
+
+      "name": "Ravanhatta",
+      "description": "Instrument indien avec l'archet coincé entre deux cordes, joué contre la poitrine",
+      "img": "assets/ravanhatta.png",
+      "familleId": 1,
+      "origin": "India",
+      "wikiSearch": "Ravanhatta"
     }
   ],
 
   "familles": [
     { "id": 1, "name": "cordes frottées" },
     { "id": 2, "name": "cordes pincées" },
-
     { "id": 3, "name": "cordes frappées" },
-
     { "id": 4, "name": "à anche simple" },
-
     { "id": 5, "name": "à anche double" },
-
     { "id": 6, "name": "à anche libre" },
     { "id": 7, "name": "à biseau" },
     { "id": 8, "name": "à embouchure" },
