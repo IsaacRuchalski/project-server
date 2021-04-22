@@ -348,13 +348,13 @@
       "description": "L'harmonium est un mélange entre un accordéon et un piano; Un clavier permet de jouer, et un soufflet activé par les pieds permet d'insuffler de l'air",
       "img": "assets/harmonium.png",
       "familleId": 6,
-      "origin": "Austria",
+      "origin": "France",
       "wikiSearch": "Harmonium"
     },
     {
       "id": 35,
 
-      "name": "Basse",
+      "name": "basse",
       "description": "La guitare basse est une guitare qui a été conçue pour pallier le manque de puissance des guitares lors de l'essor du rock",
       "img": "assets/basse.png",
       "familleId": 2,
