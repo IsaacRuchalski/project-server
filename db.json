@@ -420,6 +420,26 @@
       "familleId": 10,
       "origin": "India",
       "wikiSearch": "Khamak"
+    },
+    {
+      "id": 43,
+
+      "name": "Crwth",
+      "description": "Le crwth (crouth) est une lyre à archet d'origine irlandaise répandue dans tout le monde celtique, joué autrefois par les bardes",
+      "img": "assets/crwth.png",
+      "familleId": 1,
+      "origin": "Ireland",
+      "wikiSearch": "Crwth"
+    },
+    {
+      "id": 44,
+
+      "name": "lyre",
+      "description": "La lyre est un instrument très répandu dans le monde ",
+      "img": "assets/crwth.png",
+      "familleId": 1,
+      "origin": "Ireland",
+      "wikiSearch": "Crwth"
     }
   ],
 
