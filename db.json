@@ -410,6 +410,16 @@
       "familleId": 7,
       "origin": "Germany",
       "wikiSearch": "Flûte"
+    },
+    {
+      "id": 42,
+
+      "name": "khamak",
+      "description": "Hybride entre le luth et le tambour, le khamak est une percussion jouée avec un plectre et une corde à tendre de la main gauche",
+      "img": "assets/khamak.png",
+      "familleId": 10,
+      "origin": "India",
+      "wikiSearch": "Khamak"
     }
   ],
 
