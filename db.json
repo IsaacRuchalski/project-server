@@ -320,6 +320,16 @@
       "familleId": 1,
       "origin": "India",
       "wikiSearch": "Ravanhatta"
+    },
+    {
+      "id": 33,
+
+      "name": "Harmonica",
+      "description": "Instrument inhabituel qui utilise le même principe que l'accordéon, mais avec la bouche",
+      "img": "assets/harmonica.png",
+      "familleId": 6,
+      "origin": "Austria",
+      "wikiSearch": "Harmonica"
     }
   ],
 
