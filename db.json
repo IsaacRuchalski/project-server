@@ -324,9 +324,19 @@
     {
       "id": 33,
 
-      "name": "Harmonica",
+      "name": "harmonica",
       "description": "Instrument inhabituel qui utilise le même principe que l'accordéon, mais avec la bouche",
       "img": "assets/harmonica.png",
+      "familleId": 6,
+      "origin": "Austria",
+      "wikiSearch": "Harmonica"
+    },
+    {
+      "id": 34,
+
+      "name": "accordéon",
+      "description": "L'accordéon est un instrument à soufflet, actionné par les deux mains. l'une des mains joue avec des boutons, l'autre avec un clavier.",
+      "img": "assets/accordeon.png",
       "familleId": 6,
       "origin": "Austria",
       "wikiSearch": "Harmonica"
