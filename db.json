@@ -360,6 +360,16 @@
       "familleId": 2,
       "origin": "United States of America",
       "wikiSearch": "Guitare_basse"
+    },
+    {
+      "id": 36,
+
+      "name": "ekonting",
+      "description": "Instrument en peau de chèvre et bois, l'ekonting est un instrument traditionnel africain",
+      "img": "assets/ekonting.png",
+      "familleId": 2,
+      "origin": "Senegal",
+      "wikiSearch": "Ekonting"
     }
   ],
 
