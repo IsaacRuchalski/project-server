@@ -339,7 +339,17 @@
       "img": "assets/accordeon.png",
       "familleId": 6,
       "origin": "Austria",
-      "wikiSearch": "Harmonica"
+      "wikiSearch": "Accordéon"
+    },
+    {
+      "id": 35,
+
+      "name": "Harmonium",
+      "description": "L'harmonium est un mélange entre un accordéon et un piano; Un clavier permet de jouer, et un soufflet activé par les pieds permet d'insuffler de l'air",
+      "img": "assets/harmonium.png",
+      "familleId": 6,
+      "origin": "Austria",
+      "wikiSearch": "Harmonium"
     }
   ],
 
